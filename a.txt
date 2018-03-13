@@ -1,4 +1,3 @@
 manual
 
-a
 ket awal
